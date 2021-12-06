@@ -1,3 +1,3 @@
 #!/bin/bash
-g++ -I ../../Helper/ main.cpp
+g++ -I ../../_Helper/ main.cpp
 ./a.exe
